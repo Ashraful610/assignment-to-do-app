@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+}
+.btn{
+    margin: 50px;
+    font-size: 20px;
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
