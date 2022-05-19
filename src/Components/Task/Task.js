@@ -9,7 +9,7 @@ const Task = ({task , handleDeleteTask}) => {
         <Card style={{ width: '18rem' }} className='task-card'>
         <Card.Body>
           <Card.Title className='name'>
-              <s>{name}</s>
+              {name}
               </Card.Title>
           <Card.Text>
            {description}
