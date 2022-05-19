@@ -1,0 +1,15 @@
+.newTask{
+    margin: 50px;
+    height: 300px;
+    background-color: peachpuff;
+}
+.task-card{
+    margin: 50px;
+    background-color: beige;
+    padding: 20px;
+}
+.compelete-btn{
+    margin: 10px;
+}
+
+   

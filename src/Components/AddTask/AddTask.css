@@ -1,0 +1,13 @@
+.task{
+    margin: 50px;
+    width: 400px;
+}
+.field{
+    height: 100px;
+    width: 370px;
+    font-size: 18px;
+}
+.tasks{
+    display: grid;
+    grid-template-columns: repeat(3 , 1fr);
+}
